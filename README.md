@@ -270,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: [Your Name]
+**Project Maintainer**: Abhishek Singh
 - GitHub: abhi002shek
 - LinkedIn: https://www.linkedin.com/in/abhishek-singh-2b96961a0/
 - Email: itsabhishek1531@gmail.com
